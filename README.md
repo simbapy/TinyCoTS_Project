@@ -5,6 +5,9 @@ This project is meant toshowcase my skills in the following areas as a data scie
  - Python programming,
  - Data importing, wrangling/cleaning and transformation,
  - Data visualisation,
+ - Jupyter notebooks and
  - Time series analysis, modelling and forecasting.
+
+The project is divided into 3 section: Data Cleaning, Data Exploration and Time Series Analysis. Each section is within its own Jupyter notebook for readability sake.
 
 Please feel free to explore this data, scrutinise it and suggest any improvements I could make to the project.
