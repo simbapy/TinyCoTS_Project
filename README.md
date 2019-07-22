@@ -1,7 +1,7 @@
 # TinyCoTS_Project
-TinyCo is a fictional sales company that sells various SKUs across it's five. I take on a role of a business analyst hired in the Supply Chain Department to make sense of the data the stores generate, extract valuable insights and ultimately predict demand for the stores' profits.
+TinyCo is a retail company that sells various SKUs across five different stores. I take on a role of a data analyst hired in the Supply Chain Department to make sense of the data the stores generate, extract valuable insights and ultimately predict demand for the stores' sales. The ultiate goal of the exercise is to produce a Demand Forecast that can be used to inform the Supply Chain department when procuring items in the following year.
 
-This project is meant toshowcase my skills in the following areas as a data scientist:
+This project is meant to showcase my skills in the following areas as a data analyst:
  - Python programming,
  - Data importing, wrangling/cleaning and transformation,
  - Data visualisation,
